@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST321: Comparative New Worlds, 1400-1750"
+course_description: "A comparative history of the New World societies from 1400 to 1750, focusing on the interactions between indigenous American groups, Africans, and European colonizers."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: French New World Colonies** <span id="7"></span> 
 *The French colonies in the New World were highly varied outposts.  The
 North American holdings—called New France—were shaped mostly by the

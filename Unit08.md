@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST321: Comparative New Worlds, 1400-1750"
+course_description: "A comparative history of the New World societies from 1400 to 1750, focusing on the interactions between indigenous American groups, Africans, and European colonizers."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: British America** <span id="8"></span> 
 *Although Britain was the last European power to establish a firm
 presence in the New World, it exerted wide-ranging influence by the

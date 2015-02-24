@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST321: Comparative New Worlds, 1400-1750"
+course_description: "A comparative history of the New World societies from 1400 to 1750, focusing on the interactions between indigenous American groups, Africans, and European colonizers."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: The Spanish and Portuguese Americas** <span id="9"></span> 
 *Spanish and Portuguese colonial forces dominated the New World during
 much of the eighteenth century.  Portuguese Brazil produced gold, and,

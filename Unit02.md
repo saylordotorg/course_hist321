@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST321: Comparative New Worlds, 1400-1750"
+course_description: "A comparative history of the New World societies from 1400 to 1750, focusing on the interactions between indigenous American groups, Africans, and European colonizers."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Native Peoples of the Americas** <span id="2"></span> 
 *When Christopher Columbus landed in the New World in 1492, he
 mistakenly referred to the native inhabitants as “Indians,” thus

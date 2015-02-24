@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST321: Comparative New Worlds, 1400-1750"
+course_description: "A comparative history of the New World societies from 1400 to 1750, focusing on the interactions between indigenous American groups, Africans, and European colonizers."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: European Empires, New World Colonies** <span id="6"></span> 
 *By the mid-1600s, the New World had become critically important to many
 European nations.  Portuguese, Spanish, English, and French powers had

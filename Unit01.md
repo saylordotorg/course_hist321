@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST321: Comparative New Worlds, 1400-1750"
+course_description: "A comparative history of the New World societies from 1400 to 1750, focusing on the interactions between indigenous American groups, Africans, and European colonizers."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: What Was the “New World”?** <span id="1"></span> 
 *In the fifteenth century, the “New World” referred to the Americas.
  When Columbus returned to Spain after his journey across the Atlantic

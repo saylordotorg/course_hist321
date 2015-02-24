@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST321: Comparative New Worlds, 1400-1750"
+course_description: "A comparative history of the New World societies from 1400 to 1750, focusing on the interactions between indigenous American groups, Africans, and European colonizers."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Spain and Portugal in America** <span id="4"></span> 
 *Spain and Portugal were the first European powers to explore and settle
 the New World.  The Treaty of Tordesillas in 1494 split the Americas

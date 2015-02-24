@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST321: Comparative New Worlds, 1400-1750"
+course_description: "A comparative history of the New World societies from 1400 to 1750, focusing on the interactions between indigenous American groups, Africans, and European colonizers."
+next: ../Unit12
+previous: ../Unit10
+---
 **Unit 11: New World Conflicts** <span id="11"></span> 
 *Between the first voyages of the 1400s and the height of European
 colonization in the eighteenth century, the New World was plagued by war

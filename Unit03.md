@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST321: Comparative New Worlds, 1400-1750"
+course_description: "A comparative history of the New World societies from 1400 to 1750, focusing on the interactions between indigenous American groups, Africans, and European colonizers."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: The European Age of Discovery** <span id="3"></span> 
 *In the fifteenth century, powerful European monarchs launched the first
 stage of global imperialism.  New developments in maritime technology

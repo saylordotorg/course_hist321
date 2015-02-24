@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST321: Comparative New Worlds, 1400-1750"
+course_description: "A comparative history of the New World societies from 1400 to 1750, focusing on the interactions between indigenous American groups, Africans, and European colonizers."
+next: ../Unit11
+previous: ../Unit09
+---
 **Unit 10: Africans in the New World** <span id="10"></span> 
 *Beginning in the Sixteenth century, Africans were brought to the
 Americans to serve as enslaved laborers on plantations and in mines. 
