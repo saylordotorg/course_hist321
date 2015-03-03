@@ -92,24 +92,11 @@ Upon successful completion of this unit, you will be able to:
     Settlement”**
 
     Links: *Texas Beyond History:* *Fort St.
-    Louis*: [“](http://www.saylor.org/site/wp-content/uploads/2012/12/HIST321-5.1.3-Fort-St.-Lous-.pdf)[Main”](http://www.saylor.org/site/wp-content/uploads/2012/12/HIST321-5.1.3-Fort-St.-Lous-.pdf) (PDF),
-    [“](http://www.saylor.org/site/wp-content/uploads/2012/12/HIST321-5.1.3-The-Visionary-La-Salle.pdf)[The
-    Visionary La
-    Salle”](http://www.saylor.org/site/wp-content/uploads/2012/12/HIST321-5.1.3-The-Visionary-La-Salle.pdf) (PDF),
+    Louis*: [“Main”](http://www.texasbeyondhistory.net/stlouis/index.html) (PDF),
+    [“The Visionary La Salle”](http://www.texasbeyondhistory.net/stlouis/lasalle.html) (PDF),
     and [“Life...and Death in the French
-    Settlement”](http://www.saylor.org/site/wp-content/uploads/2012/12/HIST321-5.1.3-Life%E2%80%A6and-Death-in-the-French-Settlement.pdf)
+    Settlement”](http://www.texasbeyondhistory.net/stlouis/life.html)
     (PDF).
-
-     
-
-    Also Available in:  
-     [HTML](http://www.texasbeyondhistory.net/stlouis/index.html)
-    (“Main”)  
-     [HTML](http://www.texasbeyondhistory.net/stlouis/lasalle.html)
-    (“The Visionary La Salle”)
-
-    [HTML](http://www.texasbeyondhistory.net/stlouis/life.html)
-    (“Life…and Death in the French Settlement”)  
         
      Instructions: Please read all three sections of this article on the
     rise and fall of the French fort known as Fort St. Louis.  You will
@@ -117,12 +104,6 @@ Upon successful completion of this unit, you will be able to:
     failed, and why it was significant.  
       
      Terms of Use: The resource above is copyright Texas Beyond History.
-     The original versions can be found
-    [here](http://www.texasbeyondhistory.net/stlouis/index.html),
-    [here](http://www.texasbeyondhistory.net/stlouis/lasalle.html), and
-    [here](http://www.texasbeyondhistory.net/stlouis/life.html) (HTML).
-     These materials can only be reproduced for academic and
-    noncommercial purposes.
 
 **5.1.4 Huguenots in Brazil** <span id="5.1.4"></span> 
 -   **Reading: Harper’s Encyclopedia of US History’s “Huguenots”**
