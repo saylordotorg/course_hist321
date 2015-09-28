@@ -149,3 +149,4 @@ prepare for the Final Exam.
 - [Unit 10](https://legacy.saylor.org/hist321/Unit10/)
 - [Unit 11](https://legacy.saylor.org/hist321/Unit11/)
 - [Unit 12](https://legacy.saylor.org/hist321/Unit12/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/HIST/HIST321/HIST321-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/HIST/HIST321/HIST321-FinalExam-Answers.html)
