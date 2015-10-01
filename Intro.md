@@ -8,6 +8,16 @@ previous: ../../../
 Course Syllabus for "HIST321: Comparative New Worlds, 1400-1750"
 ----------------------------------------------------------------
 
+**Please note: this [legacy course](https://sayloracademy.zendesk.com/
+hc/en-us/articles/206089967) does not offer a certificate and may contain 
+broken links and outdated information.** Although archived, it is open 
+for learning without registration or enrollment. Please consider contributing 
+updates to [this course on GitHub](https://github.com/saylordotorg/course_hist321) 
+(you can also adopt, adapt, and distribute this course under the terms of 
+the [Creative Commons Attribution 3.0 license](http://creativecommons.org/
+licenses/by/3.0/)). **To find fully-supported, current courses, [visit our 
+Learn site](https://learn.saylor.org).**
+
 This course will introduce you to a comparative history of New World
 societies from 1400 to 1750. You will learn about European exploration
 and colonization as well as the cultures of native peoples of the
@@ -146,3 +156,4 @@ prepare for the Final Exam.
 - [Unit 10](https://legacy.saylor.org/hist321/Unit10/)
 - [Unit 11](https://legacy.saylor.org/hist321/Unit11/)
 - [Unit 12](https://legacy.saylor.org/hist321/Unit12/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/HIST/HIST321/HIST321-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/HIST/HIST321/HIST321-FinalExam-Answers.html)
