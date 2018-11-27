@@ -57,10 +57,10 @@ sub-subunits below.*
     France, Spain, and England 1761”**
 
     Link: Richard Hakluyt’s [“Discourse of Western planting
-    1584”](http://www.saylor.org/site/wp-content/uploads/2012/12/HIST321-6.1.1-Richard-Hakluyt-Discourse-of-western-planting.pdf)
+    1584”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/HIST321-6.1.1-Richard-Hakluyt-Discourse-of-western-planting.pdf)
     (PDF), and Governor Glen’s [“The Role of the Indians in the Rivalry
     Between France, Spain, and England
-    1761”](http://www.saylor.org/site/wp-content/uploads/2012/12/HIST321-6.1.1-The-Role-of-the-Indians-in-the-Rivalry-Between-France-Spain-and-England.pdf)
+    1761”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/HIST321-6.1.1-The-Role-of-the-Indians-in-the-Rivalry-Between-France-Spain-and-England.pdf)
     (PDF).  
 
      
@@ -106,14 +106,14 @@ sub-subunits below.*
     of Wallerstein on World System Theory”**
     Link: The Avalon Project’s [“Charter of the Dutch West India
     Company:
-    1621”](http://www.saylor.org/site/wp-content/uploads/2012/12/HIST321-6.1.2-Charter-of-the-Dutch-West-India-Company.pdf) (PDF),Thomas
+    1621”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/HIST321-6.1.2-Charter-of-the-Dutch-West-India-Company.pdf) (PDF),Thomas
     Mun’s [“England's Treasure By Forraign Trade,
-    1664”](http://www.saylor.org/site/wp-content/uploads/2012/12/HIST321-6.1.2-Englands-Treasure-By-Forraign-Trade.pdf) (PDF),American
+    1664”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/HIST321-6.1.2-Englands-Treasure-By-Forraign-Trade.pdf) (PDF),American
     History’s [“Adam Smith From The Wealth of Nations 1776 The Cost of
-    Empire”](http://www.saylor.org/site/wp-content/uploads/2012/12/HIST321-6.1.2-Adam-Smith.pdf) (PDF),
+    Empire”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/HIST321-6.1.2-Adam-Smith.pdf) (PDF),
     and Modern History Sourcebook’s [“Summary of Wallerstein on World
     System
-    Theory”](http://www.saylor.org/site/wp-content/uploads/2012/12/HIST321-6.1.2-Summary-of-Wallerstein-on-World-System-Theory.pdf) (PDF).  
+    Theory”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/HIST321-6.1.2-Summary-of-Wallerstein-on-World-System-Theory.pdf) (PDF).  
         
      Also Available in:  
      [HTML](http://avalon.law.yale.edu/17th_century/westind.asp)(“Charter
@@ -165,7 +165,7 @@ sub-subunits below.*
     Europe”, and The Saylor Foundation’s World History Relevant Chapter
     – VII, 69: “The Religious Wars”**
     Link: Modern History Sourcebook’s [“Map: Religious Division of
-    Europe”](http://www.saylor.org/site/wp-content/uploads/2013/01/HIST321-6.1.3-Map.pdf) (PDF),
+    Europe”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/HIST321-6.1.3-Map.pdf) (PDF),
     and The Saylor Foundation’s World History Relevant Chapter – VII,
     69: [“The Religious
     Wars”](http://www.saylor.org/content/general/world_history.pdf) (PDF).  
@@ -216,11 +216,11 @@ sub-subunits below.*
     Saint-Simon’s “The Court of Louis XIV” and Jean-Baptiste Colbert’s
     “Memorandum on Trade, 1664.”**
     Link: Jacques Benigne Bossuet’s *[Political
-    Treatise](http://www.saylor.org/site/wp-content/uploads/2013/01/HIST321-6.1.4-Political-Treatise.pdf) *(PDF),Duc
+    Treatise](https://resources.saylor.org/archived/wp-content/uploads/2013/01/HIST321-6.1.4-Political-Treatise.pdf) *(PDF),Duc
     de Saint-Simon’s [“The Court of Louis
-    XIV”](http://www.saylor.org/site/wp-content/uploads/2013/01/HIST321-6.1.4-The-Court-of-Louis-XIV.docx) (PDF)
+    XIV”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/HIST321-6.1.4-The-Court-of-Louis-XIV.docx) (PDF)
     and Jean-Baptiste Colbert’s [“Memorandum on Trade,
-    1664”](http://www.saylor.org/site/wp-content/uploads/2013/01/HIST321-6.1.4-Memorandum-on-Trade.pdf) (PDF).  
+    1664”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/HIST321-6.1.4-Memorandum-on-Trade.pdf) (PDF).  
 
       
      Also Available in:  
@@ -326,9 +326,9 @@ sub-subunits below.*
     Kant’s “What is Enlightenment?, 1784”**
     Link: Modern History Sourcebook: Jean Jacques Rousseau’s [“The
     Social Contract,
-    1762”](http://www.saylor.org/site/wp-content/uploads/2013/01/HIST321-6.2-The-Social-Contract.pdf) and
+    1762”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/HIST321-6.2-The-Social-Contract.pdf) and
     Modern History Sourcebook: Immanuel Kant’s [“What is Enlightenment?
-    1784”](http://www.saylor.org/site/wp-content/uploads/2013/01/HIST321-6.2-What-is-Enlightenment.pdf)  
+    1784”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/HIST321-6.2-What-is-Enlightenment.pdf)  
         
      Also Available in:  
      [HTML](http://www.fordham.edu/Halsall/mod/rousseau-contract2.asp)(“The

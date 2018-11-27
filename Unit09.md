@@ -87,15 +87,15 @@ Upon successful completion of this unit, you will be able to:
     Independence,” and “Criollos and Clergy”**
     Links: U.S. Library of Congress: Tim L. Merrill’s and Ramón Miró’s
     (eds.) *Mexico: A Country Study:* “[The Spanish
-    Conquest](http://www.saylor.org/site/wp-content/uploads/2011/09/Mexico-The-Spanish-Conquest.pdf),”
+    Conquest](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Mexico-The-Spanish-Conquest.pdf),”
     (PDF)
-    “[Encomiendas](http://www.saylor.org/site/wp-content/uploads/2011/09/Mexico-Encomiendas.pdf),”
+    “[Encomiendas](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Mexico-Encomiendas.pdf),”
     (PDF) “[Colonial
-    Administration](http://www.saylor.org/site/wp-content/uploads/2011/09/Mexico-Colonial-Administration.pdf),”
+    Administration](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Mexico-Colonial-Administration.pdf),”
     (PDF) “[The Road to
-    Independence,”](http://www.saylor.org/site/wp-content/uploads/2011/09/Mexico-The-Road-to-Independence.pdf)
+    Independence,”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Mexico-The-Road-to-Independence.pdf)
     and “[Criollos and
-    Clergy](http://www.saylor.org/site/wp-content/uploads/2011/09/Mexico-Criollos-and-Clergy.pdf)”
+    Clergy](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Mexico-Criollos-and-Clergy.pdf)”
     (PDF)  
         
      Instructions: Please read each webpage in its entirety to gain an
@@ -110,15 +110,15 @@ Upon successful completion of this unit, you will be able to:
     Rebellions”**
     Links: U.S. Library of Congress: Rex A. Hudson’s (ed.) *Peru: A
     Country Study*: “[The Colonial
-    Period](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST321-9.1.2-THE-COLONIAL-PERIOD.pdf)”
+    Period](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST321-9.1.2-THE-COLONIAL-PERIOD.pdf)”
     (PDF), “[The Colonial
-    Economy](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST321-9.1.2-The-Colonial-Economy.pdf)”
+    Economy](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST321-9.1.2-The-Colonial-Economy.pdf)”
     (PDF), “[Colonial
-    Administration](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST321-9.1.2-Colonial-Administration.pdf)”
+    Administration](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST321-9.1.2-Colonial-Administration.pdf)”
     (PDF), “[The Colonial
-    Church](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST321-9.1.2-The-Colonial-Church.pdf)”
+    Church](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST321-9.1.2-The-Colonial-Church.pdf)”
     (PDF), and “[Indigenous
-    Rebellions](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST321-9.1.2-Indigenous-Rebellions.pdf)”
+    Rebellions](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST321-9.1.2-Indigenous-Rebellions.pdf)”
     (PDF)  
       
      Instructions: Please read each webpage in its entirety for
@@ -130,7 +130,7 @@ Upon successful completion of this unit, you will be able to:
 **9.1.3 Spanish Florida** <span id="9.1.3"></span> 
 -   **Reading: The Saylor Foundation’s “Spanish Florida”**
     Link: The Saylor Foundation’s [“Spanish
-    Florida”](http://www.saylor.org/site/wp-content/uploads/2012/11/HIST321-9.1.3-Spanish-Florida-FINAL.pdf) (PDF)  
+    Florida”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/HIST321-9.1.3-Spanish-Florida-FINAL.pdf) (PDF)  
         
      Instructions: Please click on the link above, and read the entire
     text.  As you read, consider the following questions: what motivated
@@ -148,11 +148,11 @@ Upon successful completion of this unit, you will be able to:
     Link: Fordham University’s *Internet Modern History Sourcebook:*
     Paul Halsall’s version of Francisco Lopez de Mendoza
     Grajales’ *[“The Founding of St.
-    Augustine”](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST321-9.1.3-The-Founding-of-St.-Augustine.pdf)* (PDF)  
+    Augustine”](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST321-9.1.3-The-Founding-of-St.-Augustine.pdf)* (PDF)  
       
      Also available in:  
 
-    [iBook](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST321-9.1.3-The-Founding-of-St.-August-Author.epub)  
+    [iBook](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST321-9.1.3-The-Founding-of-St.-August-Author.epub)  
         
      Instructions: Please read the entire webpage.  In this account,
     Francisco Lopez de Mendoza Grajales, a Spanish priest, describes the
@@ -169,11 +169,11 @@ Upon successful completion of this unit, you will be able to:
     and “Gold Mining Displaces Cane Farming”**
     Links: U.S. Library of Congress: Rex A. Hudson’s (ed.) *Brazil: A
     Country Study:* [“The Colonial Era,
-    1500-1815”](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST321-9.2-The-Colonial-Era.pdf) (PDF),
+    1500-1815”](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST321-9.2-The-Colonial-Era.pdf) (PDF),
     [“Early
-    Colonization”](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST321-9.2-Early-Colonization.pdf) (PDF),
+    Colonization”](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST321-9.2-Early-Colonization.pdf) (PDF),
     and [“Gold Mining Displaces Cane
-    Farming”](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST321-9.2-Gold-Mining-Displaces-Cane-Farming.pdf) (HTML)  
+    Farming”](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST321-9.2-Gold-Mining-Displaces-Cane-Farming.pdf) (HTML)  
         
      Instructions: Please read each webpage in its entirety to learn
     about Portugal’s early exploration of Brazil.  This website contains
