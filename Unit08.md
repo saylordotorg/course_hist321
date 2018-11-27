@@ -51,10 +51,10 @@ Upon successful completion of this unit, you will be able to:
     William Bradford’s “from History of Plymouth Plantation, c. 1650”**
     Link: Connexions: Dr. James Ross-Nazzal’s [“Ch. 3 British Colonial
     America
-    (1588-1701)”](http://www.saylor.org/site/wp-content/uploads/2013/01/HIST321-8.1.1-Ross-Nazzal-Ch.-3.pdf) (PDF),
+    (1588-1701)”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/HIST321-8.1.1-Ross-Nazzal-Ch.-3.pdf) (PDF),
     and Modern History Sourcebook: William Bradford’s [“History of
     Plymouth Plantation, c.
-    1650”](http://www.saylor.org/site/wp-content/uploads/2013/01/HIST321-8.1.1-History-of-Plymouth-Plantation.pdf) (PDF).  
+    1650”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/HIST321-8.1.1-History-of-Plymouth-Plantation.pdf) (PDF).  
         
      Also Available in:  
      [HTML](http://cnx.org/content/m35277/latest/)  
@@ -94,7 +94,7 @@ Upon successful completion of this unit, you will be able to:
     Colonial America (1588-1701)”**
     Link: Connexions: James Ross-Nazzal’s [“Chapter 3: British Colonial
     America
-    (1588-1701)”](http://www.saylor.org/site/wp-content/uploads/2013/02/HIST321-8.1.1-Ross-Nazzal-Ch.-3.pdf)  
+    (1588-1701)”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST321-8.1.1-Ross-Nazzal-Ch.-3.pdf)  
       
      Also Available in:  
      [HTML](http://cnx.org/content/m35277/latest/content_info)  
@@ -156,7 +156,7 @@ Upon successful completion of this unit, you will be able to:
     Colonial America (1588-1701)”**
     Link: Connexions: James Ross-Nazzal’s [“Chapter 3: British Colonial
     America
-    (1588-1701)”](http://www.saylor.org/site/wp-content/uploads/2013/02/HIST321-8.1.1-Ross-Nazzal-Ch.-3.pdf)
+    (1588-1701)”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST321-8.1.1-Ross-Nazzal-Ch.-3.pdf)
     (PDF)  
       
      Also Available in:  
@@ -183,7 +183,7 @@ Upon successful completion of this unit, you will be able to:
     Country Economic Memorandum: Unlocking Growth”**
     Link: Open Knowledge Repository: World Bank’s [“Jamaica - Country
     Economic Memorandum: Unlocking
-    Growth”](http://www.saylor.org/site/wp-content/uploads/2013/02/HIST321-8.2.2_Jamaica_-Country-Economic-Memorandum.pdf) (PDF)  
+    Growth”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST321-8.2.2_Jamaica_-Country-Economic-Memorandum.pdf) (PDF)  
 
       
      Instructions: Please read this article, which will give you an
@@ -202,7 +202,7 @@ Upon successful completion of this unit, you will be able to:
     Link: U.S. Library of Congress: Sandra W. Meditz’s and Dennis M.
     Hanratty’s (eds.) *Caribbean Islands: A Country Study:* [“The Sugar
     Revolutions and
-    Slavery”](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST321-8.2.3-The-Sugar-Revolutions-and-Slavery.pdf) (PDF)  
+    Slavery”](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST321-8.2.3-The-Sugar-Revolutions-and-Slavery.pdf) (PDF)  
         
      Instructions: Please read the entire article to get a sense of how
     the sugar revolution in the Caribbean influenced the rise of the
@@ -221,13 +221,13 @@ and 8.3.2.*
     Settlement, 1794-1838,” and “Emigration of the Garifuna”**
     Links: U.S. Library of Congress: Tim Merrill’s (ed.) *Belize: A
     Country Study*: [“The Emergence of the British
-    Settlement,”](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST321-8.3.1-THE-EMERGENCE-OF-THE-BRITISH-SETTLEMENT.pdf)
+    Settlement,”](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST321-8.3.1-THE-EMERGENCE-OF-THE-BRITISH-SETTLEMENT.pdf)
     (PDF) “[Beginnings of Self-Government and the
-    Plantocracy](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST321-8.3.1-Beginnings-of-Self.pdf),”
+    Plantocracy](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST321-8.3.1-Beginnings-of-Self.pdf),”
     (PDF) “[Slavery in the Settlement,
-    1794-1838](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST321-8.3.1-Slavery-in-the-Settlement.pdf),”
+    1794-1838](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST321-8.3.1-Slavery-in-the-Settlement.pdf),”
     (PDF) and “[Emigration of the
-    Garifuna](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST321-8.3.1-Emigration-of-the-Garifuna.pdf)”
+    Garifuna](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST321-8.3.1-Emigration-of-the-Garifuna.pdf)”
     (PDF)  
         
      Instructions: Please read each webpage in its entirety in order to
@@ -242,15 +242,15 @@ and 8.3.2.*
     Economy”**
     Links: U.S. Library of Congress: Tim Merrill’s (ed.) *Guyana: A
     Country Study:* “[The Early
-    Years](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST321-8.3.2-History.pdf),”
+    Years](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST321-8.3.2-History.pdf),”
     (PDF) “[The Dutch Settle in
-    Guyana](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST321-8.3.2-THE-DUTCH-SETTLE-IN-GUYANA.pdf),”
+    Guyana](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST321-8.3.2-THE-DUTCH-SETTLE-IN-GUYANA.pdf),”
     (PDF) “[British Take
-    Over](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST321-8.3.2-BRITISH-TAKE-OVER.pdf),”
+    Over](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST321-8.3.2-BRITISH-TAKE-OVER.pdf),”
     (PDF) [The Shortage of
-    Labor](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST321-8.3.2-THE-SHORTAGE-OF-LABOR.pdf),”
+    Labor](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST321-8.3.2-THE-SHORTAGE-OF-LABOR.pdf),”
     (PDF) and “[History of the
-    Economy](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST321-8.3.2-HISTORY-OF-THE-ECONOMY.pdf)”
+    Economy](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST321-8.3.2-HISTORY-OF-THE-ECONOMY.pdf)”
     (PDF)  
         
      Instructions: Please read all of the webpages in order to

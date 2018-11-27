@@ -40,13 +40,13 @@ sub-subunit 3.1.3.*
     European Explorers,” Richard Hakluyt’s “Discourse of western
     planting 1584,” and Samuel de Champlain’s “Voyages 1604.”**
     Link: The Saylor Foundation’s [“The European Voyages of Exploration:
-    Introduction”](http://www.saylor.org/site/wp-content/uploads/2012/08/HIST201-3.1.1-EuropeanExplorationIntro-FINAL.pdf) (PDF),
+    Introduction”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/HIST201-3.1.1-EuropeanExplorationIntro-FINAL.pdf) (PDF),
     Florida History’s [“America's early European
-    Explorers”](http://www.saylor.org/site/wp-content/uploads/2012/12/HIST321-3.1.3-Explorers.pdf) (PDF),
+    Explorers”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/HIST321-3.1.3-Explorers.pdf) (PDF),
     Richard Hakluyt’s [“Discourse of western planting
-    1584”](http://www.saylor.org/site/wp-content/uploads/2012/12/HIST3321-3.1.3-western-planting.pdf) (PDF),
+    1584”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/HIST3321-3.1.3-western-planting.pdf) (PDF),
     and Samuel de Champlain’s [“Voyages
-    1604”](http://www.saylor.org/site/wp-content/uploads/2012/12/HIST321-3.1.3-Samuel-de-Champlain.pdf) (PDF).  
+    1604”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/HIST321-3.1.3-Samuel-de-Champlain.pdf) (PDF).  
         
      Also Available in:  
      [HTML](http://floridahistory.com/early-explorers.html) (“America’s
@@ -82,9 +82,9 @@ sub-subunit 3.1.3.*
 -   **Reading: The Saylor Foundation: “The Age of Discovery”**
 
     Link:
-    Wikipedia’s [“](http://www.saylor.org/site/wp-content/uploads/2012/12/HIST321-3.1.3-European-History-Exploration-and-Discovery.pdf)[The
+    Wikipedia’s [“](https://resources.saylor.org/archived/wp-content/uploads/2012/12/HIST321-3.1.3-European-History-Exploration-and-Discovery.pdf)[The
     Age of
-    Discovery”](http://www.saylor.org/site/wp-content/uploads/2012/12/HIST321-3.1.3-European-History-Exploration-and-Discovery.pdf) (PDF)
+    Discovery”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/HIST321-3.1.3-European-History-Exploration-and-Discovery.pdf) (PDF)
 
     <span style="font-size: 12px;"> </span>
 
@@ -105,7 +105,7 @@ sub-subunit 3.1.3.*
 **3.2.1 Vasco da Gama** <span id="3.2.1"></span> 
 -   **Reading: Vasco da Gama’s “Round Africa to India, 1497-1498”**
     Link: Vasco da Gama’s [“Round Africa to India,
-    1497-1498”](http://www.saylor.org/site/wp-content/uploads/2012/12/HIST321-3.2.1-Vasco-de-Gama.pdf) (PDF).  
+    1497-1498”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/HIST321-3.2.1-Vasco-de-Gama.pdf) (PDF).  
         
      Also Available in:  
      [HTML](http://www.fordham.edu/halsall/mod/1497degama.asp)  
@@ -128,7 +128,7 @@ sub-subunit 3.1.3.*
 -   **Reading: Ferdinand Magellan’s “Voyage Round the World, 1519-1522
     CE.”**
     Link: Ferdinand Magellan’s [“Voyage Round the World, 1519-1522
-    CE”](http://www.saylor.org/site/wp-content/uploads/2012/12/HIST321-3.2.2-Ferdinand-Magellan.pdf) (PDF).  
+    CE”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/HIST321-3.2.2-Ferdinand-Magellan.pdf) (PDF).  
         
      Also Available in:  
      [HTML](http://www.fordham.edu/Halsall/mod/1519magellan.asp)  
@@ -153,7 +153,7 @@ sub-subunit 3.1.3.*
 -   **Reading: Tracy Barnes’ “Jacques Cartier’s Explorations and
     Achievements”**
     Link: Tracy Barnes’ [“Jacques Cartier’s Explorations and
-    Achievements”](http://www.saylor.org/site/wp-content/uploads/2012/12/HIST321-3.2.3-Jacques-Cartier.pdf) (PDF).  
+    Achievements”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/HIST321-3.2.3-Jacques-Cartier.pdf) (PDF).  
         
      Also Available in  
 
@@ -181,7 +181,7 @@ sub-subunit 3.1.3.*
 -   **Reading: John Cabot’s (c.1450-1499): “Voyage to North America,
     1497”**
     Link: John Cabot’s (c.1450-1499): [“Voyage to North America,
-    1497”](http://www.saylor.org/site/wp-content/uploads/2012/12/HIST321-3.2.4-John-Cabot.pdf) (PDF)  
+    1497”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/HIST321-3.2.4-John-Cabot.pdf) (PDF)  
         
      Also Available in:  
      [HTML](http://www.fordham.edu/halsall/mod/1497cabot-3docs.asp)  
