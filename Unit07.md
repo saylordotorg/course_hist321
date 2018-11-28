@@ -58,10 +58,10 @@ Upon successful completion of this unit, you will be able to:
     for the Marquis de Seignelay Regarding Canada January 1687”**
     Link: Modern History Sourcebook: Samuel de Champlain’s [“The
     Foundation of Quebec,
-    1608”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/HIST321-7.1.1-The-Foundation-of-Quebec.pdf) (PDF)
+    1608”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/HIST321-7.1.1-The-Foundation-of-Quebec.pdf) (PDF)
     and University of Groningen‘s [“Memoir for the Marquis de Seignelay
     Regarding Canada January
-    1687”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/HIST321-7.1.1-Memoir-for-the-Marquis-de-Seignelay-Regarding-Canada-January-1687.pdf) (PDF).  
+    1687”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/HIST321-7.1.1-Memoir-for-the-Marquis-de-Seignelay-Regarding-Canada-January-1687.pdf) (PDF).  
         
         
      Also Available in:  
@@ -102,7 +102,7 @@ Upon successful completion of this unit, you will be able to:
     Relations and Allied Documents: Travels and Explorations of the
     Jesuit Missionaries in New France, 1610-1791,Volume X [‘Preface and
     Part First, Chapter
-    One’](https://resources.saylor.org/archived/wp-content/uploads/2013/01/HIST321-7.1.2-The-Jesuit-Relation1.pdf)”
+    One’](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/HIST321-7.1.2-The-Jesuit-Relation1.pdf)”
     (PDF).  
         
      Also Available in:  
@@ -125,7 +125,7 @@ Upon successful completion of this unit, you will be able to:
 **7.1.3 The Fur Trade** <span id="7.1.3"></span> 
 -   **Reading: The Saylor Foundation’s “The Fur Trade”**
     Link: The Saylor Foundation’s [“The Fur
-    Trade”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/HIST321-7.1.3-The-Fur-Trade-FINAL.pdf) (PDF)  
+    Trade”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/HIST321-7.1.3-The-Fur-Trade-FINAL.pdf) (PDF)  
         
      Instructions: Please click on the link above, and read the entire
     text.  As you read, consider the following questions: what economic,
@@ -163,7 +163,7 @@ Upon successful completion of this unit, you will be able to:
     Relations and Allied Documents: Travels and Explorations of the
     Jesuit Missionaries in New France, 1610-1791, Volume X [85] Part
     Second, [‘On the Beliefs, Manners, and Customs of the
-    Hurons’](https://resources.saylor.org/archived/wp-content/uploads/2013/01/HIST321-7.1.2-The-Jesuit-Relation-CH2.pdf) Chapter
+    Hurons’](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/HIST321-7.1.2-The-Jesuit-Relation-CH2.pdf) Chapter
     First” (PDF).  
         
      Also Available in:  
@@ -192,7 +192,7 @@ and 7.2.2.*
     Difficult Early Years of the Colony”**
     Link: Library of Congress’ [“Louisiana as a French Colony: Difficult
     Early Years of the
-    Colony”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST321-7.2.2-Louisiana-as-a-French-Colony.pdf) (PDF)  
+    Colony”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/HIST321-7.2.2-Louisiana-as-a-French-Colony.pdf) (PDF)  
                   
 
     Also Available in:  
@@ -219,9 +219,9 @@ and 7.2.2.*
     A.D. 1601 to 1700.”**
     Link: The Library of Congress: The Library of Congress’s [“A Map of
     Louisiana and of the River
-    Mississippi”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/HIST321-7.2.2-Louisiana-Map.pdf) (PDF),
+    Mississippi”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/HIST321-7.2.2-Louisiana-Map.pdf) (PDF),
     and Connexions: Jack E. Maxfield’s [“America: A.D. 1601 to
-    1700”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/HIST321-7.2.2-The-Mississippi-River-Region-and-Louisiana.pdf) (PDF).  
+    1700”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/HIST321-7.2.2-The-Mississippi-River-Region-and-Louisiana.pdf) (PDF).  
         
      Also Available in:  
 
@@ -266,12 +266,12 @@ and 7.3.2.*
     (1801)”**
 
     Link: The L’Ouverture Project’s [“General
-    Whyte’](https://resources.saylor.org/archived/wp-content/uploads/2013/01/HIST321-7.3.2-General-Whyte-Proclamation.pdf)[s
+    Whyte’](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/HIST321-7.3.2-General-Whyte-Proclamation.pdf)[s
     Proclamation to the People of Saint-Domingue
-    (1794)”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/HIST321-7.3.2-General-Whyte-Proclamation.pdf)
+    (1794)”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/HIST321-7.3.2-General-Whyte-Proclamation.pdf)
     (PDF), and The L'Ouverture Project’s [“Toussaint L’Ouverture’s
     ‘Dictatorial Proclamation’
-    (1801)”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/HIST321-7.3.2-Toussaint-Louverture-Dict.-Proc..pdf)
+    (1801)”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/HIST321-7.3.2-Toussaint-Louverture-Dict.-Proc..pdf)
     (PDF). 
 
      
@@ -315,9 +315,9 @@ and 7.3.2.*
 
     Link: The L’Ouverture Project: [“General Whyte's Proclamation to the
     People of Saint-Domingue
-    (1794)”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/HIST321-7.3.2-General-Whyte-Proclamation.pdf)
+    (1794)”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/HIST321-7.3.2-General-Whyte-Proclamation.pdf)
     (PDF), and [“Toussaint L’Ouverture's ‘Dictatorial Proclamation’
-    (1801)”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/HIST321-7.3.2-Toussaint-Louverture-Dict.-Proc..pdf) (PDF)
+    (1801)”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/HIST321-7.3.2-Toussaint-Louverture-Dict.-Proc..pdf) (PDF)
 
      
 

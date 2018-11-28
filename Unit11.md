@@ -51,7 +51,7 @@ Upon successful completion of this unit, you will be able to:
     Country Study: “French and Dutch Incursions”**
     Link: U.S. Library of Congress: Rex A. Hudson’s (ed.) *Brazil: A
     Country Study:* [“French and Dutch
-    Incursions”](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST321-11.1.1-French-and-Dutch-Incursions.pdf) (PDF)  
+    Incursions”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST321-11.1.1-French-and-Dutch-Incursions.pdf) (PDF)  
         
      Instructions: Please read the whole excerpt in order to get a sense
     of the conflicts between the French, Dutch, and Portuguese—all of
@@ -65,7 +65,7 @@ Upon successful completion of this unit, you will be able to:
 **11.1.2 Anglo-Dutch Wars** <span id="11.1.2"></span> 
 -   **Reading: The Saylor Foundation’s “Anglo-Dutch Wars”**
     Link: The Saylor Foundation’s [“Anglo-Dutch
-    Wars”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/HIST321-11.1.2-Anglo-Dutch-Wars-FINAL.pdf) (PDF)  
+    Wars”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/HIST321-11.1.2-Anglo-Dutch-Wars-FINAL.pdf) (PDF)  
         
      Instructions: Please click on the link above, and read the entire
     text. As you read, consider the following questions: what was the
@@ -145,7 +145,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: Boundless Learning, Inc’s “The Seven Year’s War:
     1754-1763”**
     Link: Boundless Learning, Inc’s [“The Seven Year’s War:
-    1754-1763”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST321-11.1.7_The-French-and-Indian-War.pdf) (PDF)  
+    1754-1763”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/HIST321-11.1.7_The-French-and-Indian-War.pdf) (PDF)  
 
       
      Instructions: Please read the entire article above for an overview
@@ -190,7 +190,7 @@ Upon successful completion of this unit, you will be able to:
     Colonial America (1588-1701)”**
     Link: Connexions: Dr. James Ross-Nazzal’s [“Chapter 3: British
     Colonial America
-    (1588-1701)”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST321-5.2.3_Ch-3-British-Colonial-America.pdf) (PDF)  
+    (1588-1701)”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/HIST321-5.2.3_Ch-3-British-Colonial-America.pdf) (PDF)  
         
      Also available in:  
      [HTML](http://cnx.org/content/m35277/latest/content_info)  

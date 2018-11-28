@@ -56,7 +56,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: National Park Service’s “History of Fort Caroline”**
 
     Link: National Park Service’s [“History of Fort
-    Caroline”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/HIST321-5.1.1-History-of-Fort-Caroline.pdf)
+    Caroline”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/HIST321-5.1.1-History-of-Fort-Caroline.pdf)
     (PDF)
 
      
@@ -72,7 +72,7 @@ Upon successful completion of this unit, you will be able to:
     “Early French Exploration of North America,” pp. 10-14.**
     Link: Concepcion Saenz-Camba’s *The Atlantic World, 1492-1600*,
     [“Early French Exploration of North
-    America”](https://resources.saylor.org/archived/wp-content/uploads/2012/04/HIST-Atlantic-World-1492-1600-OC-FINAL.pdf),
+    America”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/HIST-Atlantic-World-1492-1600-OC-FINAL.pdf),
     pp. 10-14 (PDF).  
 
       
@@ -115,7 +115,7 @@ Upon successful completion of this unit, you will be able to:
 **5.1.4 Huguenots in Brazil** <span id="5.1.4"></span> 
 -   **Reading: Harper’s Encyclopedia of US History’s “Huguenots”**
     Link: Harper’s Encyclopedia of US History’s
-    [“Huguenots”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/HIST321-5.1.4-Huguenots.pdf) (PDF)  
+    [“Huguenots”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/HIST321-5.1.4-Huguenots.pdf) (PDF)  
         
      Also Available in:  
 
@@ -148,7 +148,7 @@ id="5.2"></span> 
 
     Link: Concepcion Saenz-Camba’s *The Atlantic World, 1492-1600* [“The
     English in North
-    America”](https://resources.saylor.org/archived/wp-content/uploads/2012/04/HIST-Atlantic-World-1492-1600-OC-FINAL.pdf)
+    America”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/HIST-Atlantic-World-1492-1600-OC-FINAL.pdf)
     (PDF) pp. 14-23.
 
      
@@ -168,10 +168,10 @@ id="5.2"></span> 
     “Charter to Sir Walter Raleigh March 25 1584”**
     Link: Concepcion Saenz-Camba’s *The Atlantic World, 1492-1600 *[“The
     English in North
-    America”](https://resources.saylor.org/archived/wp-content/uploads/2012/04/HIST-Atlantic-World-1492-1600-OC-FINAL.pdf) (PDF)
+    America”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/HIST-Atlantic-World-1492-1600-OC-FINAL.pdf) (PDF)
     pp. 14-18, and American History’s [“Charter to Sir Walter Raleigh
     March 25
-    1584”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/HIST321-5.2.1-Charter-to-Sir-Walter-Raleigh.pdf) (PDF).  
+    1584”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/HIST321-5.2.1-Charter-to-Sir-Walter-Raleigh.pdf) (PDF).  
         
      Also Available in:  
 
@@ -209,7 +209,7 @@ id="5.2"></span> 
     “The Fledgling Settlements,” pp. 18-20**
     Link: Concepcion Saenz-Camba’s *The Atlantic World, 1492-1600*,
     [“The Fledgling
-    Settlements”](https://resources.saylor.org/archived/wp-content/uploads/2012/04/HIST-Atlantic-World-1492-1600-OC-FINAL.pdf) (PDF)
+    Settlements”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/HIST-Atlantic-World-1492-1600-OC-FINAL.pdf) (PDF)
     pp. 18-20.  
         
      Instructions: Please read the selection, which will help you gain a
@@ -258,10 +258,10 @@ id="5.2"></span> 
     British Colonial America (1588-1701), “Jamestown”**
     Link: *Sage American History:* Henry J. Sage’s [“Virginia: The
     London
-    Company”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST321-5.2.3_Virginia-The-London-Company.pdf) (PDF)
+    Company”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/HIST321-5.2.3_Virginia-The-London-Company.pdf) (PDF)
     and *Connexions:* Dr. James Ross-Nazzal [“Ch. 3 British Colonial
     America (1588-1701),
-    “Jamestown”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST321-5.2.3_Ch-3-British-Colonial-America.pdf) (PDF)  
+    “Jamestown”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/HIST321-5.2.3_Ch-3-British-Colonial-America.pdf) (PDF)  
         
      Also Available in:  
      [HTML](http://www.academicamerican.com/colonial/topics/earlyva.htm)

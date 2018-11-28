@@ -64,7 +64,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: The Saylor Foundation’s “Amerindian Slavery in the
     Americas”**
     Link: The Saylor Foundation’s [“Amerindian Slavery in the
-    Americas”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/HIST321-10.1.1-Amerindian-Slavery-in-the-Americas-FINAL.pdf) (PDF)  
+    Americas”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/HIST321-10.1.1-Amerindian-Slavery-in-the-Americas-FINAL.pdf) (PDF)  
         
      Instructions: Please click on the link above, and read the entire
     text.  As you read, consider the following questions: in which
@@ -85,7 +85,7 @@ id="10.1.2"></span> 
 -   **Reading: The Saylor Foundation’s “Amerindian Slavery in the
     Caribbean”**
     Link: The Saylor Foundation’s [“Amerindian Slavery in the
-    Caribbean”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/HIST321-10.1.2-Ameridian-Slavery-in-the-Caribbean-FINAL.pdf)
+    Caribbean”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/HIST321-10.1.2-Ameridian-Slavery-in-the-Caribbean-FINAL.pdf)
     (PDF)  
         
      Instructions: Please click on the link above, and read the entire
@@ -107,10 +107,10 @@ id="10.1.2"></span> 
     and Modern History Sourcebook: Henry Stevens’s ‘The New Laws of the
     Indies, 1542”**
     Link: The Library of Congress: Rex A.
-    Hudson’s [“Encomiendas”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST321-10.1.3_Ecomiendas.pdf) (PDF)
+    Hudson’s [“Encomiendas”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/HIST321-10.1.3_Ecomiendas.pdf) (PDF)
     and Modern History Sourcebook: Henry Stevens’ [“The New Laws of the
     Indies,
-    1542”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST321-10.1.3-The-New-Laws-of-the-Indies.pdf) (PDF)  
+    1542”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/HIST321-10.1.3-The-New-Laws-of-the-Indies.pdf) (PDF)  
         
      Also Available in:  
      [HTML](http://countrystudies.us/mexico/7.htm) (Rex A. Hudson’s
@@ -177,12 +177,12 @@ id="10.2.1"></span> 
     Antislavery.org’s “Trade Routes: Americas and the Caribbean”**
     Link: *Sage American History*: Henry J. Sage’s [“Colonial America
     (1607-1763), The Lives of Indentured
-    Servants”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST321-10.2.1_Sage_The-Lives-of-indentured-Servants.pdf)
+    Servants”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/HIST321-10.2.1_Sage_The-Lives-of-indentured-Servants.pdf)
     (PDF), Fordham University’s *Internet Modern History Sourcebook*:
     Paul Halsall’s version of [“Atlantic Slave Trade: Carriers and
-    Destinations”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST321-10.2.1_Atlantic-Slave-Trade-GIF.pdf)
+    Destinations”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/HIST321-10.2.1_Atlantic-Slave-Trade-GIF.pdf)
     (PDF), and Antislavery.org’s [“Trade Routes: Americas and the
-    Caribbean”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/HIST321-10.2.1_Trade-Routes_Americas-and-the-Carribean.pdf) (PDF)  
+    Caribbean”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/03/HIST321-10.2.1_Trade-Routes_Americas-and-the-Carribean.pdf) (PDF)  
         
      Also available in:  
 
@@ -222,9 +222,9 @@ id="10.2.2"></span> 
     Vasa’s “Middle Passage”**
     Link: Connexions: Dr. James Ross-Nazzal and David White’s [“Ch. 4
     Slavery and Empire
-    (1441-1770)”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST321-10.2.2_Ch-4-Slavery-and-Empire.pdf)
+    (1441-1770)”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/HIST321-10.2.2_Ch-4-Slavery-and-Empire.pdf)
     (PDF) and Academic American History: Gustavus Vasa’s [“Middle
-    Passage”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST321-10.2.2_The-Middle-Passage-Voyage-from-Africa.pdf) (PDF)  
+    Passage”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/HIST321-10.2.2_The-Middle-Passage-Voyage-from-Africa.pdf) (PDF)  
         
      Also Available in:  
      [HTML](http://cnx.org/content/m43292/latest/) (Connexions: “Ch. 4
@@ -264,11 +264,11 @@ id="10.2.2"></span> 
     Ethnography”: “Africans in Spanish America”**
     Link: National Park Service’s “African American Heritage and
     Ethnography”: [“Africans in Spanish
-    America”](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST321-10.3.1-Africans-in-Spanish-America.pdf) (PDF)  
+    America”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST321-10.3.1-Africans-in-Spanish-America.pdf) (PDF)  
       
      Also available in:  
 
-    [iBook](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST321-10.3.1-Africans-in-Spanish-Ameri-Author.epub)  
+    [iBook](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST321-10.3.1-Africans-in-Spanish-Ameri-Author.epub)  
         
      Instructions: Please read the entire article to get a sense of the
     role of African slaves in Spain and Spanish America.  Use the “next”
@@ -280,7 +280,7 @@ id="10.2.2"></span> 
 -   **Reading: The Saylor Foundation’s “The Making of the Atlantic
     World”**
     Link: The Saylor Foundation’s [“The Making of the Atlantic
-    World”](https://resources.saylor.org/archived/wp-content/uploads/2012/02/HIST251-6.1-TheMakingoftheAtlanticWorld-FINAL.pdf) (PDF)  
+    World”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/HIST251-6.1-TheMakingoftheAtlanticWorld-FINAL.pdf) (PDF)  
 
       
      Instructions: Please read the selection for an overview of Africans
@@ -316,11 +316,11 @@ id="10.2.2"></span> 
     Ethnography”: “Africans in French America”**
     Link: National Park Service’s “African American Heritage and
     Ethnography”: [“Africans in French
-    America”](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST321-10.3.3-Africans-in-French-America.pdf) (PDF)  
+    America”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST321-10.3.3-Africans-in-French-America.pdf) (PDF)  
       
      Also available in:  
 
-    [iBook](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST321-10.3.3-Africans-in-French-Americ-Author.epub)  
+    [iBook](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST321-10.3.3-Africans-in-French-Americ-Author.epub)  
         
      Instructions: Please read the entire webpage to get a sense of the
     system of slavery in French colonies in North America, particularly
@@ -332,9 +332,9 @@ id="10.2.2"></span> 
 -   **Reading: *Sage American History:* Henry J. Sage’s “Life in
     Colonial America”, and “Virginia Slave Laws”**
     Link: *Sage American History*: Henry J. Sage’s [“Life in Colonial
-    America”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST321-10.3.4_Life-in-Colonial-America.pdf)
+    America”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/HIST321-10.3.4_Life-in-Colonial-America.pdf)
     (PDF) and Henry J. Sage’s [“Virginia Slave
-    Laws”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST321-10.3.4_Vrginia-Slave-Laws.pdf)
+    Laws”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/HIST321-10.3.4_Vrginia-Slave-Laws.pdf)
     (PDF)  
         
      Also Available in:  

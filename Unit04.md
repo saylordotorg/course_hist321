@@ -62,7 +62,7 @@ Upon successful completion of this unit, you will be able to:
 **4.1.1 Early Spanish Colonization Efforts** <span id="4.1.1"></span> 
 -   **Reading: Hernan Cortés’, “Second Letter to Charles V, 1520”**
     Link: Hernan Cortés’, [“Second Letter to Charles V,
-    1520”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/HIST321-4.1.1-Hernan-Cort%C3%A9s.pdf) (PDF)  
+    1520”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/HIST321-4.1.1-Hernan-Cort%C3%A9s.pdf) (PDF)  
         
      Also Available in:  
      [HTML](http://www.fordham.edu/Halsall/mod/1520cortes.asp)  
@@ -92,11 +92,11 @@ Upon successful completion of this unit, you will be able to:
 
     Link: Bartolome de las Casas’, [“A Short Account of the Destruction
     of the Indies
-    [1542]”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/HIST321-4.1.2-las-Casas.pdf) (PDF),
+    [1542]”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/HIST321-4.1.2-las-Casas.pdf) (PDF),
     and Phillip
-    II’s [“](https://resources.saylor.org/archived/wp-content/uploads/2012/12/HIST321-4.1.2-Philip-II.pdf)[Two
+    II’s [“](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/HIST321-4.1.2-Philip-II.pdf)[Two
     Documents from the Reign of Philip
-    II”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/HIST321-4.1.2-Philip-II.pdf) (PDF).
+    II”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/HIST321-4.1.2-Philip-II.pdf) (PDF).
      
 
      
@@ -152,9 +152,9 @@ id="4.2"></span> 
     Columbus’ “Extracts from Journal.”**
     Link: The Saylor Foundation’s [“European Voyages of Exploration:
     Christopher Columbus and the Spanish
-    Empire”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/HIST201-3.1.4-ChristopherColumbusandSpanishEmpire-FINAL.pdf) (PDF),
+    Empire”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/HIST201-3.1.4-ChristopherColumbusandSpanishEmpire-FINAL.pdf) (PDF),
     and Christopher Columbus’ [“Extracts from
-    Journal”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/HIST321-4.2.1-Christopher-Columbus.pdf) (PDF).  
+    Journal”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/HIST321-4.2.1-Christopher-Columbus.pdf) (PDF).  
       
      Also Available in:  
      [HTML](http://www.fordham.edu/halsall/source/columbus1.asp)  
@@ -191,9 +191,9 @@ id="4.2"></span> 
     “Letter to the Taino-Arawak Indians.”**
     Link: The Saylor Foundation’s [“The European Voyages of Exploration:
     The Caribbean: First
-    Contact”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/HIST201-3.2.1-EuropeanExplorationCaribbean-FINAL.pdf) (PDF),
+    Contact”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/HIST201-3.2.1-EuropeanExplorationCaribbean-FINAL.pdf) (PDF),
     and King Ferdinand’s [“Letter to the Taino-Arawak
-    Indians”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/HIST321-4.2.2-King-Ferdinand.pdf) (PDF).  
+    Indians”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/HIST321-4.2.2-King-Ferdinand.pdf) (PDF).  
         
      Also Available in:  
 
@@ -224,7 +224,7 @@ id="4.2"></span> 
     Link: Fordham University’s *Internet Modern History
     Sourcebook:* Paul Halsall’s version of Motecuhzoma’ [“Aztec Account
     of the Conquest of
-    Mexico”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/HIST321-4.2.3-AztecAccountoftheConquestofMexico.pdf)
+    Mexico”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/04/HIST321-4.2.3-AztecAccountoftheConquestofMexico.pdf)
     (PDF).  
         
      Also Available in:  
@@ -246,7 +246,7 @@ id="4.2"></span> 
 
     Canadian Libraries Internet Archive’s version of Bernal Diaz del
     Castillo’s *[True History of the Conquest of
-    Mexico](https://resources.saylor.org/archived/wp-content/uploads/2013/03/HIST321-4.2.3_True%20History%20of%20the%20Conquest%20of%20Mexico.pdf) *(PDF)  
+    Mexico](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/03/HIST321-4.2.3_True%20History%20of%20the%20Conquest%20of%20Mexico.pdf) *(PDF)  
         
      Also available in:  
      [Google
@@ -279,7 +279,7 @@ id="4.2"></span> 
     Conquistadors”**
     Link: U.S. Library of Congress’s Country Studies: Rex A. Hudson’s
     (ed.) *Peru: A Country Study:* [“Pizarro and the
-    Conquistadors”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/HIST321-4.2.4-Pizarro-and-the-Conquistadors.pdf) (PDF)  
+    Conquistadors”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/HIST321-4.2.4-Pizarro-and-the-Conquistadors.pdf) (PDF)  
         
      Instructions: Please read the entire webpage to get an overview of
     Pizarro’s victory over the Incas in Peru.  This website contains
@@ -295,7 +295,7 @@ id="4.2"></span> 
     Brazil: A Country Study: “Early Colonization”**
     Link: Library of Congress Country Studies: Rex A. Hudson’s (ed.)
     Brazil: A Country Study: [“Early
-    Colonization”](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST321-9.2-Early-Colonization.pdf) (PDF)  
+    Colonization”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST321-9.2-Early-Colonization.pdf) (PDF)  
         
      Instructions: Please read the entirety of the webpage to get a
     sense of the early Portuguese Empire.  
@@ -305,7 +305,7 @@ id="4.2"></span> 
 -   **Reading: The Saylor Foundation’s “The European Voyages of
     Exploration: Portugal”**
     Link: The Saylor Foundation’s [“The European Voyages of Exploration:
-    Portugal”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/HIST201-3.1.2-EuropeanExplorationPortugal-FINAL.pdf) (PDF).  
+    Portugal”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/HIST201-3.1.2-EuropeanExplorationPortugal-FINAL.pdf) (PDF).  
         
      Instructions: Please read the selection in order to get a sense of
     the emergence of a powerful and influential Portuguese trading
