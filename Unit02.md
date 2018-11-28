@@ -49,7 +49,7 @@ id="2.1.1"></span> 
 -   **Reading: The Saylor Foundation's “Native Peoples' Perceptions of
     Europeans”**
     Link: The Saylor Foundation's [“Native Peoples' Perceptions of
-    Europeans”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST321-2.1.1-Native-Peoples-Perceptions-on-Europeans-FINAL.pdf) (PDF)  
+    Europeans”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/HIST321-2.1.1-Native-Peoples-Perceptions-on-Europeans-FINAL.pdf) (PDF)  
         
      Instructions: Please click on the link above and read the entire
     article.  
@@ -66,10 +66,10 @@ id="2.1.2"></span> 
     Sourcebook: Thomas Morton’s “Manners and Customs of the Indians (of
     New England), 1637”**
     Link: Dr. James Ross-Nazzal’s [“Chapter 1: Pre-Columbian
-    era”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/HIST321-2.1.2-Nazzal.pdf) (PDF)
+    era”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/HIST321-2.1.2-Nazzal.pdf) (PDF)
     and Thomas Morton’s [“Manners and Customs of the Indians (of New
     England),
-    1637”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/HIST321-2.1.2-Morton.pdf) (PDF)  
+    1637”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/HIST321-2.1.2-Morton.pdf) (PDF)  
       
 
     Instructions: Please read the sections above in order to get a sense
@@ -99,7 +99,7 @@ and 2.2.2.*
 **2.2.1 The Aztecs/Mexica** <span id="2.2.1"></span> 
 -   **Reading: The Saylor Foundation’s “Amerindian Civilizations”**
     Link: The Saylor Foundation’s [“Amerindian
-    Civilizations”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/HIST321-2.2.1-Amerindian-Civilizations.pdf)  
+    Civilizations”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/HIST321-2.2.1-Amerindian-Civilizations.pdf)  
       
 
     Instructions: Please read pages 5-6, “The Mexica/Aztec,” of the
@@ -124,7 +124,7 @@ id="2.2.2"></span> 
     the Caribbean”**
     Link: Jack E. Maxfield’s “A Comprehensive Outline of World History,
     America: A.D. 1401 to 1500, [“Mexico, Central America, and the
-    Caribbean”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/HIST321-2.2.2-MexicoCentral-America-Carribbean.pdf) (PDF)  
+    Caribbean”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/HIST321-2.2.2-MexicoCentral-America-Carribbean.pdf) (PDF)  
         
      Also Available in:  
 
@@ -160,11 +160,11 @@ and 2.3.2.*
     “Study Questions for Christopher Columbus”**
     Link: American History Online’s [“Map of the Islands of Hispaniola
     and Puerto
-    Rico”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/HIST321-2.3.1-Maps.pdf) (PDF),
+    Rico”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/HIST321-2.3.1-Maps.pdf) (PDF),
     Christopher Columbus’s [“Letter to the King and Queen of Spain,
-    1494”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/HIST321-2.3.1-Columbus.pdf) (PDF),
+    1494”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/HIST321-2.3.1-Columbus.pdf) (PDF),
     and The Saylor Foundation’s [“Study Questions for Christopher
-    Columbus”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/HIST221-Subunit-1.1.3-Study-Questions-for-Christopher-Columbus-FINAL.pdf) (PDF).  
+    Columbus”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/HIST221-Subunit-1.1.3-Study-Questions-for-Christopher-Columbus-FINAL.pdf) (PDF).  
         
      Also Available in:  
      [HTML](http://www.loc.gov/resource/g4930.ct000952/)(“Map of the
@@ -187,7 +187,7 @@ and 2.3.2.*
 **2.3.2 Arawaks** <span id="2.3.2"></span> 
 -   **Reading: The Saylor Foundation’s “Arawaks”**
     Link: The Saylor Foundation’s
-    [“Arawaks”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/HIST321-2.3.2-Arawaks-FINAL.pdf) (PDF)  
+    [“Arawaks”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/HIST321-2.3.2-Arawaks-FINAL.pdf) (PDF)  
         
      Instructions: Please click on the link above, and read the entire
     text.  As you read, consider the following questions: what lands did
@@ -213,7 +213,7 @@ and 2.4.2.*
     Link: Connexions: Jack E. Maxfield’s *A Comprehensive Outline of
     World History, America: A.D. 1401 to 1500*, [“Northern and Western
     South
-    America”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/HIST321-2.4.1-NW-South-America.pdf)  
+    America”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/HIST321-2.4.1-NW-South-America.pdf)  
         
      Also Available in:  
 
@@ -246,7 +246,7 @@ and 2.4.2.*
     Link: Fordham University’s *Internet Modern History Sourcebook:*
     Paul Halsall’s version of Pedro de Cieza de Léon’s [“*Chronicles of
     the Incas,
-    1540*”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/HIST321-2.4.2.pdf)
+    1540*”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/HIST321-2.4.2.pdf)
     (PDF)  
       
 
@@ -271,10 +271,10 @@ id="2.5"></span> 
     Indians, 1764”**
     Link: Connexions: Dr. James Ross-Nazzal’s [“Chapter 2: When Cultures
     Collide
-    (1492-1600)”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/HIST321-2.5.1-Chapter-2.pdf) (PDF),
+    (1492-1600)”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/HIST321-2.5.1-Chapter-2.pdf) (PDF),
     and Frontiersmen’s [“Remonstrance of the Pennsylvania Frontiersmen:
     On the Indians,
-    1764”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/HIST321-2.5.1-On-the-Indians.pdf) (PDF).  
+    1764”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/HIST321-2.5.1-On-the-Indians.pdf) (PDF).  
         
      Also Available in:  
      [HTML](http://cnx.org/content/m35276/latest/) (“Chapter 2”)  
@@ -311,7 +311,7 @@ id="2.5"></span> 
     “The Columbian Exchange.”**
     Link: Concepcion Saenz-Camba’s *The Atlantic World,
     1492-1600*, [“The Columbian
-    Exchange”](https://resources.saylor.org/archived/wp-content/uploads/2012/04/HIST-Atlantic-World-1492-1600-OC-FINAL.pdf) (PDF)  
+    Exchange”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/HIST-Atlantic-World-1492-1600-OC-FINAL.pdf) (PDF)  
 
       
      Instructions: Please read the selection on the impact of Old World

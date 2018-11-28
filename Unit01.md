@@ -32,12 +32,12 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: Archive.org: De Orbe Novo, the Eight Decades of Peter
     Martyr d’Anghiera**
     Link: Archive.org: *[De Orbe Novo, the Eight Decades of Peter Martyr
-    d’Anghiera](https://resources.saylor.org/archived/wp-content/uploads/2012/12/HIST321-1.1.1-deorbenovoeightd01angh.pdf)* (HTML
+    d’Anghiera](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/HIST321-1.1.1-deorbenovoeightd01angh.pdf)* (HTML
     or PDF)  
         
      Also available in:  
 
-    [EPub](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST321-1.1.1-deorbenovoeightd01angh.epub)  
+    [EPub](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST321-1.1.1-deorbenovoeightd01angh.epub)  
      [Google
     Books](http://books.google.com/books?id=3eTSERWATC0C&printsec=frontcover&dq=De+orbe+novo,+the+eight+Decades+of+Peter+Martyr+d%27Anghera;&hl=en&ei=Pi-CTbKjIvOJ0QGr1dC_CA&sa=X&oi=book_result&ct=result&resnum=1&ved=0CCoQ6AEwAA#v=onepage&q&f=false)  
         
@@ -60,7 +60,7 @@ Upon successful completion of this unit, you will be able to:
     Link: Barnard University: Lisa Gordis’ version of [“The Written
     Record of the Voyage of 1524 of Giovanni da Verrazano as Recorded in
     a Letter to Francis I, King of France, July 8th,
-    1524”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/HIST321-1.2-Verrazano.pdf) (PDF)  
+    1524”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/HIST321-1.2-Verrazano.pdf) (PDF)  
         
      Instructions: Please click on the link above and read the entire
     letter.  Like Peter Martyr, the explorer Giovanni Verrazano applied
@@ -78,15 +78,15 @@ Upon successful completion of this unit, you will be able to:
     Link: Concepcion Saenz-Cambra’s, *The Atlantic World, 1492-1600*
     [“Introduction,” “The First Atlantic Encounters,” and “Discovery,
     Reconnaissance, and
-    Expansion”](https://resources.saylor.org/archived/wp-content/uploads/2012/04/HIST-Atlantic-World-1492-1600-OC-FINAL.pdf) (PDF)
+    Expansion”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/HIST-Atlantic-World-1492-1600-OC-FINAL.pdf) (PDF)
     and American History Online’s *New World Maps*, “[Part
-    1](https://resources.saylor.org/archived/wp-content/uploads/2012/12/HIST321-1.3-Map-Part-1.pdf),”
+    1](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/HIST321-1.3-Map-Part-1.pdf),”
     “[Part
-    2](https://resources.saylor.org/archived/wp-content/uploads/2012/12/HIST321-1.3-Map-Part-2.pdf),”
+    2](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/HIST321-1.3-Map-Part-2.pdf),”
     “[Part
-    3](https://resources.saylor.org/archived/wp-content/uploads/2012/12/HIST321-1.3-Map-Part-3.pdf),”
+    3](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/HIST321-1.3-Map-Part-3.pdf),”
     and “[Part
-    4](https://resources.saylor.org/archived/wp-content/uploads/2012/12/HIST321-1.3-Map-Part-4.pdf)”
+    4](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/HIST321-1.3-Map-Part-4.pdf)”
     (PDF).  
         
      Also available in:  
